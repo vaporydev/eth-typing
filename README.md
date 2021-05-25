@@ -1,4 +1,4 @@
-# eth-typing
+# vap-typing
 
 [![Join the chat at https://gitter.im/ethereum/eth-typing](https://badges.gitter.im/ethereum/eth-typing.svg)](https://gitter.im/ethereum/eth-typing?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://circleci.com/gh/ethereum/eth-typing.svg?style=shield)](https://circleci.com/gh/ethereum/eth-typing)
